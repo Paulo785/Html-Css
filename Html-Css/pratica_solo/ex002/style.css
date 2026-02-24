@@ -1,0 +1,20 @@
+
+        body {
+            background-color: lightskyblue;         
+        }
+  
+       .paginacao {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+
+ .paginacao a {
+    font-size: 30px;
+    text-decoration: none;
+}
+  .videos {
+    flex: 1; /* ocupa o espaço */
+}
